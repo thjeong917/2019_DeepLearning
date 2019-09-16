@@ -6,32 +6,32 @@ For more detailed information, please read reports below.*
 
 
 ## **Lab 1**
-**[Goal]**
+**Goal**
 
 
 Find association rules using the Apriori algorithm.
 
-**[Detail]**
+**Detail**
 * [Assignment1.pdf](./Assignment1/Assignment1.pdf)
 
 
 ## **Lab 2**
-**[Goal]**
+**Goal**
 
 
 Build a decision tree, and then classify the test set using this tree.
 
-**[Detail]**
+**Detail**
 * [Assignment2.pdf](./Assignment2/Assignment2.pdf)
 
 
 
 ## **Lab 4**
 
-**[Goal]**
+**Goal**
 
 
 Predict the ratings of movies in test data by using the given training data containing movie ratings of users.
 
-**[Detail]**
+**Detail**
 * [Assignment4.pdf](./Term_Project/Term_Project.pdf)
