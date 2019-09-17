@@ -8,11 +8,15 @@ For more detailed information, please read reports below.*
 ## **Lab 1**
 **Goal**
 
+Build a 2-layered neural network for logistic regression. 
 
-Find association rules using the Apriori algorithm.
+Implement the network using both numpy & tensorflow, and compare the results.
 
 **Detail**
-* [Assignment1.pdf](./Assignment1/Assignment1.pdf)
+* Generate 128 2-dim vectors between -1 and 1.
+* Train using Gradient descent.
+* Repeat for 5000 times.
+* For more detailed report, read [lab1.pdf](./lab1/lab1.pdf)
 
 
 ## **Lab 2**
