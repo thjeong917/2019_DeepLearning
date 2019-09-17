@@ -21,6 +21,7 @@ Implement the network using both numpy & tensorflow, and compare the results.
 
 ## **Lab 2**
 **Goal**
+
 Implement image super-resolution using CNN(SRCNN) with tensorflow.
 
 
@@ -39,6 +40,7 @@ Implement image super-resolution using CNN(SRCNN) with tensorflow.
 ## **Lab 4**
 
 **Goal**
+
 Implement SRCNN using vanilla RNN with tensorflow.
 
 **Detail**
