@@ -55,7 +55,7 @@ Implement SRCNN using vanilla RNN with tensorflow.
 
 
 ## **Reference**
-**Learning a Deep Convolutional Network for Image Super-Resolution** (ECCV 2014), C Dong et al.
+* **Learning a Deep Convolutional Network for Image Super-Resolution** (ECCV 2014), C Dong et al.
 
-**Image Super-Resolution Using Deep Convolutional Networks** (TPAMI 2015), C Dong et al.
+* **Image Super-Resolution Using Deep Convolutional Networks** (TPAMI 2015), C Dong et al.
 
