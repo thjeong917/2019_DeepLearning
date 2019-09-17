@@ -47,7 +47,7 @@ Implement SRCNN using vanilla RNN with tensorflow.
 * Made every sample pictures into half-size & grayscale.
 * Trained cropped samples(32*32) with SRCNN, and compared the results with original pictures.
 * Used ReLU for activation function, and needed to calculate 'h' for RNN.
-* For more detailed report, read [Lab4_report.pdf](./lab4/Lab4_report.pdf.pdf)
+* For more detailed report, read [Lab4_report.pdf](./lab4/Lab4_report.pdf)
 
 **Result**
 
