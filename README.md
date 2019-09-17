@@ -21,21 +21,37 @@ Implement the network using both numpy & tensorflow, and compare the results.
 
 ## **Lab 2**
 **Goal**
+Implement image super-resolution using CNN(SRCNN) with tensorflow.
 
-
-Build a decision tree, and then classify the test set using this tree.
 
 **Detail**
-* [Assignment2.pdf](./Assignment2/Assignment2.pdf)
+* Made every sample pictures into half-size & grayscale.
+* Trained cropped samples(32*32) with SRCNN, and compared the results with original pictures.
+* For more detailed report, read [Lab2_report.pdf](./lab2/Lab2_report.pdf.pdf)
+
+**Result**
+
+![result](./lab2/PSNR_Set5.png)
+
 
 
 
 ## **Lab 4**
 
 **Goal**
-
-
-Predict the ratings of movies in test data by using the given training data containing movie ratings of users.
+Implement SRCNN using vanilla RNN with tensorflow.
 
 **Detail**
-* [Assignment4.pdf](./Term_Project/Term_Project.pdf)
+* Made every sample pictures into half-size & grayscale.
+* Trained cropped samples(32*32) with SRCNN, and compared the results with original pictures.
+* Used ReLU for activation function, and needed to calculate 'h' for RNN.
+* For more detailed report, read [Lab4_report.pdf](./lab4/Lab4_report.pdf.pdf)
+
+**Result**
+![result](./lab4/PSNR_Set5.png)
+
+
+## **Reference**
+Learning a Deep Convolutional Network for Image Super-Resolution (ECCV 2014), C Dong et al.
+Image Super-Resolution Using Deep Convolutional Networks (TPAMI 2015), C Dong et al.
+
